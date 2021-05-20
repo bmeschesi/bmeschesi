@@ -32,6 +32,10 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bmeschesi&show_icons=true&hide_border=true" />
+
 [twitter]: https://twitter.com/BMeschesi
 [linkedin]: https://www.linkedin.com/in/bmeschesi-eng/
 
