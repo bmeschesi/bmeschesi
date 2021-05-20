@@ -34,7 +34,8 @@
 
 ---
 
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmeschesi)](https://github.com/bmeschesi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmeschesi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [twitter]: https://twitter.com/BMeschesi
 [linkedin]: https://www.linkedin.com/in/bmeschesi-eng/
