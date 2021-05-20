@@ -32,8 +32,6 @@
 <br />
 <br />
 
----
-
 
 [twitter]: https://twitter.com/BMeschesi
 [linkedin]: https://www.linkedin.com/in/bmeschesi-eng/
