@@ -1,6 +1,5 @@
 <img align="center" alt="bmeschesi-msqlserver"  src="https://komarev.com/ghpvc/?username=bmeschesi&style=flat-square">
 
-
 <img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 
 <img align="left" alt="Dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
@@ -25,6 +24,7 @@
 
 <img align="left" alt="BMeschesi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 
+</br>
 </br>
 
 <div align="center">
