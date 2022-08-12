@@ -1,12 +1,13 @@
 <img align="center" alt="bmeschesi-msqlserver"  src="https://komarev.com/ghpvc/?username=bmeschesi&style=flat-square">
 
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 
 <img align="left" alt="Dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
+<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
@@ -23,6 +24,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/72936169/184387533-8a481b04-6c18-4aba-af1d-297318f4030a.jpg" />
 
 <img align="left" alt="BMeschesi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+
+</br>
 
 <div align="center">
   <a href="https://github.com/bmeschesi">
