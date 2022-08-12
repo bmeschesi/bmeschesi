@@ -14,7 +14,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=bmeschesi&theme=nord&column=7" >
   
 
-[<img align="left" alt="BMeschesi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="BMeschesi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
 
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][LinkedIn]
   
