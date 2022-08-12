@@ -1,9 +1,8 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmeschesi&langs_count=8)](https://github.com/bmeschesi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmeschesi&langs_count=8theme=dark&show_icons=true)](https://github.com/bmeschesi/github-readme-stats)
 <br />
-![Bmeschesi GitHub stats](https://github-readme-stats.vercel.app/api?username=bmeschesi&count_private=true)
+![Bmeschesi GitHub stats](https://github-readme-stats.vercel.app/api?username=bmeschesi&theme=dark&show_icons=true&count_private=true)
 <br />
-[![Bmeschesi GitHub stats](https://github-readme-stats.vercel.app/api?username=bmeschesi)](https://github.com/bmeschesi/github-readme-stats)
-<br />
+
 ### Languages and Tools:
 [<img align="left" alt="BMeschesi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][LinkedIn]
