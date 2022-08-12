@@ -1,13 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmeschesi&theme=dark&show_icons=true)](https://github.com/bmeschesi/github-readme-stats)
-![Bmeschesi GitHub stats](https://github-readme-stats.vercel.app/api?username=bmeschesi&theme=dark&show_icons=true&count_private=true)
-<br />
-
-<a href="https://github.com/bmeschesi">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=bmeschesi&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bmeschesi&theme=dark&show_icons=true)" />
-</a>
-<a href="https://github.com/bmeschesi">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=bmeschesi&repo=convoychat](https://github-readme-stats.vercel.app/api?username=bmeschesi&theme=dark&show_icons=true&count_private=true)" />
-</a>
 
 ### Languages and Tools:
 [<img align="left" alt="BMeschesi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
