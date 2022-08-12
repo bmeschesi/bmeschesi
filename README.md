@@ -1,20 +1,17 @@
-<div align="center">
-  <img align="center" alt="bmeschesi-msqlserver"  src="https://komarev.com/ghpvc/?username=bmeschesi&style=flat-square">
-</div>
+<img align="center" alt="bmeschesi-msqlserver"  src="https://komarev.com/ghpvc/?username=bmeschesi&style=flat-square">
 
 <div align="center">
   <a href="https://github.com/bmeschesi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bmeschesi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmeschesi&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
-</div>
-  
-<div align="center">
+    
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmeschesi&theme=dark"> 
 
   <h3>🏆 GitHub Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=bmeschesi&theme=nord&column=7" >
 </div>
 
+  <div align="left">
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][LinkedIn]
   
 [<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][LinkedIn]
@@ -38,8 +35,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/72936169/184387533-8a481b04-6c18-4aba-af1d-297318f4030a.jpg" />][LinkedIn]
 
 [<img align="left" alt="BMeschesi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
-
-<br />
+</div>
 <br />
 
 
