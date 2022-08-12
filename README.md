@@ -14,8 +14,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=bmeschesi&theme=nord&column=7" >
   
 
-[<img align="left" alt="BMeschesi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
-
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][LinkedIn]
   
 [<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][LinkedIn]
@@ -36,9 +34,9 @@
   
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][LinkedIn]
   
- [<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/72936169/184387533-8a481b04-6c18-4aba-af1d-297318f4030a.jpg" />][LinkedIn]
+[<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/72936169/184387533-8a481b04-6c18-4aba-af1d-297318f4030a.jpg" />][LinkedIn]
 
-  
+[<img align="left" alt="BMeschesi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
 
 <br />
 <br />
