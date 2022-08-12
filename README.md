@@ -10,7 +10,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmeschesi&theme=dark">
 </div>
 
-<h2>🏆 GitHub Trophies</h2>
+<h3>🏆 GitHub Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=bmeschesi&theme=nord&column=7" >
   
 
