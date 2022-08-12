@@ -1,6 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmeschesi&langs_count=8)](https://github.com/bmeschesi/github-readme-stats)
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmeschesi&count_private=true)
+![Bmeschesi GitHub stats](https://github-readme-stats.vercel.app/api?username=bmeschesi&count_private=true)
+<br />
+[![Bmeschesi GitHub stats](https://github-readme-stats.vercel.app/api?username=bmeschesi)](https://github.com/bmeschesi/github-readme-stats)
 <br />
 ### Languages and Tools:
 [<img align="left" alt="BMeschesi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
