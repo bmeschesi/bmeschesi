@@ -1,4 +1,6 @@
-<img align="center" alt="bmeschesi-msqlserver"  src="https://komarev.com/ghpvc/?username=bmeschesi&style=flat-square">
+<div align="center">
+  <img align="center" alt="bmeschesi-msqlserver"  src="https://komarev.com/ghpvc/?username=bmeschesi&style=flat-square">
+</div>
 
 <div align="center">
   <a href="https://github.com/bmeschesi">
