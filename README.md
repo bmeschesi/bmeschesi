@@ -1,5 +1,5 @@
-### Hi 👋 [<img align="left" alt="BMeschesi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
-
+### [<img align="left" alt="BMeschesi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ### Languages and Tools:
