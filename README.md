@@ -4,16 +4,16 @@
   <a href="https://github.com/bmeschesi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bmeschesi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmeschesi&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
-
 </div>
-  <div align="center">
+  
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmeschesi&theme=dark">
-  </div>
-  <h2>🏆 GitHub Trophies</h2>
+</div>
+
+<h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=bmeschesi&theme=nord&column=7" >
   
-  
-### Languages and Tools:
+<h2>Languages and Tools</h2> 
 [<img align="left" alt="BMeschesi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][LinkedIn]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][LinkedIn]
