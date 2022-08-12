@@ -2,11 +2,11 @@
 ![Bmeschesi GitHub stats](https://github-readme-stats.vercel.app/api?username=bmeschesi&theme=dark&show_icons=true&count_private=true)
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmeschesi&repo=github-readme-stats" />
+<a href="https://github.com/bmeschesi">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=bmeschesi&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bmeschesi&theme=dark&show_icons=true)" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmeschesi&repo=convoychat" />
+<a href="https://github.com/bmeschesi">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=bmeschesi&repo=convoychat](https://github-readme-stats.vercel.app/api?username=bmeschesi&theme=dark&show_icons=true&count_private=true)" />
 </a>
 
 ### Languages and Tools:
