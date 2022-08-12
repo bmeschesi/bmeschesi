@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmeschesi&langs_count=8theme=dark&show_icons=true)](https://github.com/bmeschesi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmeschesi&theme=dark&show_icons=true)](https://github.com/bmeschesi/github-readme-stats)
 <br />
 ![Bmeschesi GitHub stats](https://github-readme-stats.vercel.app/api?username=bmeschesi&theme=dark&show_icons=true&count_private=true)
 <br />
